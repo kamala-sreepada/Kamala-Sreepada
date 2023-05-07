@@ -2,7 +2,7 @@
 <h3 align="left">A passionate CS major at the University of Maryland interested in Software Development, Machine Learning, and Cybersecurity</h3>
 
 <p align="left">Connect with me:
-<a href="https://linkedin.com/in/kamalasreepada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamalasreepada" height="15" width="15" /></a>
+<a href="https://linkedin.com/in/kamalasreepada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamalasreepada" height="11" width="11" /></a>
 </p>
 
 
